@@ -3,7 +3,7 @@ Glad to see you here!
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/developer_around/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-briccoli-26a265153/)
 
-I'm a final year student pursuing Bachelors's in Computer Science and Engineering 🎓 from Alma Mater Studiorum - University of Bologna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨💻. I'm currently into Web Development, Internet of Things, Objected-Oriented Programming, Operating Systems, Cyber Security 🕸️ and working on my Data Structures and Algorithms 🤓. 
+I'm a final year student pursuing Bachelors's in Computer Science and Engineering 🎓 from Alma Mater Studiorum - University of Bologna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨💻. I'm currently into Web Development, Internet of Things, Objected-Oriented Programming, Operating Systems, Mobile Development, Cyber Security 🕸️ and working on my Data Structures and Algorithms 🤓. 
 
 ### 👩‍💻 Personal Projects
 - 👾 I’m currently working on PacMan21, a OOP project in Java
