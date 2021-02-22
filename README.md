@@ -11,7 +11,7 @@ I'm a final year student pursuing Bachelors's in Computer Science and Engineerin
 - 🛠 I’m currently learning Cyber Security, Pentesting and Bug bounty
 - 💻 I’m a Back-end engigneer intern at KM3NeT Collaboration
 - 📫 How to reach me: sara.briccoli@outlook.com
-- 📝 Checkout my <a href="https://github.com/saribricka/saribricka/CVJan2021">Resume</a>
+- 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CVJan2021.pdf">Resume</a>
 - 🐶 I love animals and nature
 
 ### 🛠 Languages and Tools
