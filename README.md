@@ -8,8 +8,8 @@ I'm a final year student pursuing Bachelors's in Computer Science and Engineerin
 ### 👩‍💻 Personal Projects
 - 👾 I’m currently working on PacMan21, a OOP project in Java
 - 📲 I'm developing an Android mobile application 
-- 🛠 I’m currently learning Cyber Security, Pentesting and Bug bounty
-- 💻 I’m a Back-end engigneer intern at KM3NeT Collaboration
+- 🛠 Full-stack developer junior @ MyAppFree
+- 💻 I’m a Back-end engineer intern at KM3NeT Collaboration
 - 📫 How to reach me: sara.briccoli@outlook.com
 - 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CVJan2021.pdf">Resume</a>
 - 🐶 I love animals and nature
