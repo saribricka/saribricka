@@ -3,16 +3,19 @@ Glad to see you here!
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/developer_around/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-briccoli-26a265153/)
 
-I'm a final year student pursuing Bachelors's in Computer Science and Engineering 🎓 from Alma Mater Studiorum - University of Bologna 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨💻. I'm currently into Web Development, Internet of Things, Objected-Oriented Programming, Operating Systems, Mobile Development, Cyber Security 🕸️ and working on my Data Structures and Algorithms 🤓. 
+I pursued my Bachelor degree in Computer Science and Engineering 🎓 from Alma Mater Studiorum - University of Bologna 🏛. I work as a full stack developer and innovation manager 🛠. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨💻. I'm currently into Web Development, Industrial Internet of Things, Integrated Systems, Mobile Development and Cyber Security 🕸️. 
 
-### 👩‍💻 Personal Projects
-- 👾 I’m currently working on PacMan21, a OOP project in Java
-- 📲 I'm developing an Android mobile application 
-- 🛠 Full-stack developer junior @ MyAppFree
-- 💻 I’m a Back-end engineer intern at KM3NeT Collaboration
+### 👩‍💻 Works
+- 📈 I’m working on a business intelligence technology to analyze commercial redirects
+- 📠 I recently developed a Supermarket Billing System, Java OOP project
+- 📲 I recently developed an Android mobile application
+
+### 👤 About me
+- 🤓 Full-stack developer @ MyAppFree
+- 🛠 Technology & Innovation Manager @ ELMEC Solutions
 - 📫 How to reach me: sara.briccoli@outlook.com
 - 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CVJan2021.pdf">Resume</a>
-- 🐶 I love animals and nature
+- 🌱 I'm vegan! I love animals, nature and every form of life
 
 ### 🛠 Languages and Tools
 #### Programming Languages
