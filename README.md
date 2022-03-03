@@ -43,4 +43,4 @@ I pursued my Bachelor degree in Computer Science and Engineering 🎓 from Alma 
 ### 📈 Statistics 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saribricka&theme=highcontrast&layout=compact&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=saribricka&layout=compact&theme=highcontrast&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=saribricka&layout=compact&theme=highcontrast&show_icons=true&count_private=true)
