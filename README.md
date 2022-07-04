@@ -15,7 +15,7 @@ I'm currently into Product Management, Integrated Systems, Lean Processes, Innov
 - 🤓 Full-stack developer @ MyAppFree
 - 🛠 Technology & Innovation Manager @ ELMEC Solutions
 - 📫 How to reach me: sara.briccoli@outlook.com
-- 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CVJul2022.pdf">Resume</a>
+- 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CV%20Jul%202022.png">Resume</a>
 - 🌱 I'm vegan! I love animals, nature and every form of life, I believe I can change the world with the help of technology!
 
 ### 🛠 Languages and Tools
