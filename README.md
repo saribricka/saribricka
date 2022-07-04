@@ -3,19 +3,20 @@ Glad to see you here!
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/developer_around/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-briccoli-26a265153/)
 
-I pursued my Bachelor degree in Computer Science and Engineering 🎓 from Alma Mater Studiorum - University of Bologna 🏛. I work as a full stack developer and innovation manager 🛠. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨💻. I'm currently into Web Development, Industrial Internet of Things, Integrated Systems, Mobile Development and Cyber Security 🕸️. 
+I pursued my Bachelor's degree in Computer Science and Engineering 🎓 at Alma Mater Studiorum - University of Bologna 🏛. I work as a full stack developer and innovation manager 🛠. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨💻. 
+I'm currently into Product Management, Integrated Systems, Lean Processes, Innovation and Cyber Security 🕸️. 
 
-### 👩‍💻 Works
-- 📈 I’m working on a business intelligence technology to analyze commercial redirects
-- 📠 I recently developed a Supermarket Billing System, Java OOP project
-- 📲 I recently developed an Android mobile application
+### 👩‍💻 Projects
+- 📈 I designed and developed and I'm currently maintaining a business intelligence system which analyze incentive ads inside offerwalls
+- 📠 in january 2022 I developed a Supermarket Billing System, Java OOP project
+- 📲 in july 2021 I developed an Android mobile application
 
 ### 👤 About me
 - 🤓 Full-stack developer @ MyAppFree
 - 🛠 Technology & Innovation Manager @ ELMEC Solutions
 - 📫 How to reach me: sara.briccoli@outlook.com
-- 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CVJan2021.pdf">Resume</a>
-- 🌱 I'm vegan! I love animals, nature and every form of life
+- 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CVJul2022.pdf">Resume</a>
+- 🌱 I'm vegan! I love animals, nature and every form of life, I believe I can change the world with the help of technology!
 
 ### 🛠 Languages and Tools
 #### Programming Languages
