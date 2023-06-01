@@ -42,6 +42,4 @@ I'm currently into Product Management, Integrated Systems, Lean Processes, Innov
 <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 
 ### 📈 Statistics 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=saribricka&theme=highcontrast&layout=compact&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=saribricka&layout=compact&theme=highcontrast&show_icons=true&count_private=true)
